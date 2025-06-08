@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Hospital-Logical_Model" id="F434EEC7-526B-57B0-16C2-7EC525B1BC6A" version="3.5">
+<createdBy>Lenovo</createdBy>
+<createdTime>2025-02-22 17:51:33 UTC</createdTime>
+<ownerDesignName>LD2_Ilaha_Habibova</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F434EEC7-526B-57B0-16C2-7EC525B1BC6A</designId>
+</OSDM_Design>
