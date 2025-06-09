@@ -1,5 +1,5 @@
 # Electron Hospital Management System
-This repository contains a series of assignments for a Database Management Systems (DBMS) course, focusing on the design and implementation of an Electron Hospital Management System. Throughout assignments, I used <a href="https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/">Oracle SQL Developer Data Modeler </a> and <a href="https://www.oracle.com/database/sqldeveloper/technologies/download/">Oracle SQL Developer</a>.
+This repository contains a series of tasks for a Database Management Systems (DBMS) course, focusing on the design and implementation of an Electron Hospital Management System. Throughout assignments, I used <a href="https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/">Oracle SQL Developer Data Modeler </a> and <a href="https://www.oracle.com/database/sqldeveloper/technologies/download/">Oracle SQL Developer</a>.
 
 ## 📌 Logical Model Domain Overview
 The system models key hospital operations:
@@ -19,6 +19,12 @@ The system models key hospital operations:
 - `Patients ↔ Bills` : One-to-Many (1 patient can have multiple bills, for example each for different services.)
 
 ## 📁 Contents
-You can view logical model and relational model via <a href="https://github.com/Ilaha-Habibova/Electron-hospital-DBMS/blob/main/Hospital-Logical_Model.dmd">DMD file</a>. <br>
+- Detailed description, models, and implementation can be found in the <a href="https://github.com/Ilaha-Habibova/Electron-hospital-DBMS/blob/main/Electron%20Hospital%20Management%20System.docx">prepared documentation</a>. <br>
+- Logical and relational models are available in the <a href="https://github.com/Ilaha-Habibova/Electron-hospital-DBMS/blob/main/Hospital-Logical_Model.dmd">DMD file</a>. <br>
+- Complete PL/SQL implementation is included in the <a href="https://github.com/Ilaha-Habibova/Electron-hospital-DBMS/blob/main/Electron-Hospital-Management-System.sql">SQL file</a>.
 
+## Author: [@Ilaha_Habibova](https://github.com/Ilaha-Habibova)
 
+Unauthorized use, reproduction, modification, or distribution of this project, in whole or in part is strictly prohibited. <br>
+Proper reference must be given if any part of this project is used:<br> 
+Electron Hospital Management System using PL/SQL: Ilaha Habibova - https://github.com/Ilaha-Habibova/Electron-hospital-DBMS
